@@ -14,7 +14,7 @@
 
 ## Objective
 
-Just for learning fun, explored is there any possibility to avoid wastage of LINK Tokens during development ( any way we have unlimited free tokens for kovan testnet :smiling_face_with_smiling_eyes_and_hand_covering_mouth: ), Link token is binded to proxy layer and Logic Contract( Logic Layer ) is decoupled from token requirement and logic layer API's gets executed under proxy layer context.
+Just for learning fun, explored is there any possibility to avoid wastage of LINK Tokens during development [ any way we have unlimited free tokens for kovan testnet :-) ], Link token is binded to proxy layer and Logic Contract( Logic Layer ) is decoupled from token requirement and logic layer API's gets executed under proxy layer context.
 
 ## Design approach
 
